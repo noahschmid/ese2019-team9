@@ -1,9 +1,7 @@
 # ESE-Project 2019
-Welcome to our Project for the course 'ESE: Introduction to Software Engineering (Einführung in SE)'. Below you will find all information you need to get started.
+This was our project for the course 'ESE: Introduction to Software Engineering (Einführung in SE)' at the university of Bern. The task was to build a web application that facilitates organizing events. We ended up implementing a [Fiverr](https://www.fiverr.com/)-like service where people can offer services (like cathering, audio engineering, photography..) and locations to users. The application was built using [Angular](https://angular.io/) and [Ionic](https://ionicframework.com/)
 
-You find a working state of our project on [themoln.herokuapp.com](http://themoln.herokuapp.com), where we upload the most recent, functional version of our project.
-
-*Please note that the website can take a long time to load on first access. This is because the server automatically shuts down when no one accesses the site for a longer period of time.*
+Below you will find all information you need to get started.
 
 ## Documentation folder
 [Link to the documentations folder][DocumentationFolder]
